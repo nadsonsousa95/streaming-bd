@@ -75,13 +75,9 @@ O projeto também inclui diversas consultas para análise de dados, como:
 
 ## 📎 Como Usar
 
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/StreamingDB.git
-   ```
-2. Importe e execute o script **streamingdb.sql** no SQL Server.
-3. execute o **inserts.sql** para inserir dados no banco
-4. Utilize os scripts de consultas para analisar os dados da plataforma.
+1. Importe e execute o script **streamingdb.sql** no SQL Server.
+2. execute o **inserts.sql** para inserir dados no banco
+3. Utilize os scripts de consultas para analisar os dados da plataforma.
 
 
 ---
